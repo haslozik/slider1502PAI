@@ -1,0 +1,13 @@
+body {
+    background: #8b8b8b;
+}
+
+#content-slider {
+    width: 1024px;
+    margin: 0 auto;
+    height: 100vh;
+}
+
+.splide__slide {
+    padding: 31px;
+}
