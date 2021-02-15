@@ -1,11 +1,12 @@
 body {
     background: #8b8b8b;
+    overflow: hidden;
 }
 
 #content-slider {
     width: 1024px;
     margin: 0 auto;
-    height: 100vh;
+    height: 90vh;
 }
 
 .splide__slide {
